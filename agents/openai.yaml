@@ -1,0 +1,7 @@
+interface:
+  display_name: "豆包游戏三段短剧"
+  short_description: "根据游戏名与参考图生成45秒三段式可无缝拼接的豆包视频脚本"
+  default_prompt: "使用 $doubao-game-video-script，根据游戏名和主角参考图生成三段各15秒、可无缝拼接的豆包视频提示词。"
+
+policy:
+  allow_implicit_invocation: true
